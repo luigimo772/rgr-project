@@ -1,0 +1,19 @@
+{
+  "name": "rgr-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigimo772/rgr-project.git"
+  },
+  "author": "LM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigimo772/rgr-project/issues"
+  },
+  "homepage": "https://github.com/luigimo772/rgr-project#readme"
+}
